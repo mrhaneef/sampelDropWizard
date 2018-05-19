@@ -1,0 +1,6 @@
+logging:
+  level: INFO
+  loggers:
+    net.telematics.iot.provisioning: DEBUG
+template: Hello, %s!
+defaultName: Stranger
